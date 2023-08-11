@@ -2,7 +2,7 @@
 
 meu nome é Kaio Henrique
 
-- Estou estudando no [alura] 
+- Estou estudando no [alura] (https://www.alura.com.br)
 - estou desenvolvendo na linguagem JavaScript
 - utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
