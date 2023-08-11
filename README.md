@@ -10,4 +10,4 @@ meu nome é Kaio Henrique
 
 - kaio.fogaca.silva@escola.pr.gov.br
 
-! [] (https://media.tenor.com/90zFgiUQBHQAAAAM/michael-jordan-nba.gif)
+ ![](https://media.tenor.com/90zFgiUQBHQAAAAM/michael-jordan-nba.gif)
